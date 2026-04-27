@@ -13,8 +13,7 @@ struct ContentView: View {
             Image(systemName: "pencil")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Haha collab")
-                .foregroundStyle(.red)
+            Text("changed text")
         }
         .padding()
     }
