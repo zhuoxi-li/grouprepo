@@ -14,6 +14,9 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Haha collab")
+            Image(systemName: "person.3")
+                .foregroundColor(.green)
+                .imageScale(.large)
         }
         .padding()
     }
