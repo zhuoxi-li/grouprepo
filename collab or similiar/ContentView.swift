@@ -14,9 +14,11 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("changed text")
+                .foregroundStyle(.red)
             Image(systemName: "person.3")
                 .foregroundColor(.green)
                 .imageScale(.large)
+            Text("hycybh")
         }
         .padding()
     }
