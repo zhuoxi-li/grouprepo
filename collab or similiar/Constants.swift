@@ -7,4 +7,6 @@
 
 struct Constants {
     static var num = 27;
+    
+    static var text = "I'm way to tired for this"
 }
